@@ -1,2 +1,4 @@
 # git-basics
-basics of git
+Basics of git
+<br>
+Author-Tanish
